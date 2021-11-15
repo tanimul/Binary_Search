@@ -8,3 +8,8 @@ If a match occurs, then the index of item is returned. If the middle item is gre
 middle item.Otherwise, the item is searched for in the sub-array to the right of the middle item. This process continues on the sub-array as well until the size of the 
 subarray reduces to zero.
 
+![binary_search](https://user-images.githubusercontent.com/35636662/141840094-727d4504-636e-48b3-895d-8a17c94427e5.gif)
+ 
+# Java
+    
+   # 1st Step     
