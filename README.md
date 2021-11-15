@@ -12,4 +12,4 @@ subarray reduces to zero.
  
 # Java
     
-   # 1st Step     
+   #1st Step     
