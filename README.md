@@ -12,17 +12,17 @@ subarray reduces to zero.
  
 # Java
     
-   #1st Step 
+   Step 1: 
    
    Binary search works on sorted arrays. So, sorted the array if arrays will unsorted.
    
-   #2nd Step
+   Step 2:
    
    We have to use the below formula to calculate the mid of the array -
     
      mid = (start + end) / 2;
   
-   #3rd Step
+   Step 3:
    
          while (start <= end) {
             if (numbers[mid] < value) {
