@@ -12,10 +12,10 @@ subarray reduces to zero.
  
 # Java
     
-   #1st Step 
+   #1st Step- 
    Binary search works on sorted arrays. So, sorted the array if arrays will unsorted.
    
-   #2nd Step
+   #2nd Step-
    We have to use the below formula to calculate the mid of the array -
     
      mid = (start + end) / 2;
